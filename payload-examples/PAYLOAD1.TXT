@@ -1,0 +1,10 @@
+{LDR}
+{RUN}
+{D100}
+cmd.exe /c "color 0a & for /l %a in (0) do tree /F"
+{ENTER}
+{RUN}
+notepad.exe
+{ENTER}
+{D100}
+Hi there!

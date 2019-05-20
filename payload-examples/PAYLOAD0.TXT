@@ -1,0 +1,13 @@
+{POWERSHELL}
+$d = New-Object System.Net.WebClient;
+$d.DownloadFile('http://amirreza.in/img/hi-there.jpg','hi-there.jpg');
+start 'hi-there.jpg';
+start notepad;
+exit;
+{ENTER}
+{D1K}
+{D1K}
+{D1K}
+Ooops! DO NOT plug any USB device you find!
+{ENTER}
+OK? :)

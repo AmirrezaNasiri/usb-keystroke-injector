@@ -1,0 +1,6 @@
+{RUN}
+{D100}
+cmd.exe /c "color 0a & cd %WINDIR% & for /l %a in (0) do tree /F"
+{ENTER}
+{D500}
+{HIDE}
