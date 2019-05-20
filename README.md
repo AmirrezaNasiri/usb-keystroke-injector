@@ -43,6 +43,9 @@ If you're not using Arduino Pro Micro, you must follow your device pinout instea
 First, you need to assemble the following circuit (the schematic is also available as a fritzing project):  
 ![Schematic](schematic/USB-Keystroke-Injector.png)
 
+This how it will look like at the end:
+![USB Keystroke Injector](assets/USB-Keystroke-Injector.png)
+
 ## Program the software
 Open source codes available in `sources` directory as an [Arduino IDE](https://www.arduino.cc/en/Main/Software) project. Connect your device and simply program it.
 
