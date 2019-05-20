@@ -1,5 +1,6 @@
 # USB Keystroke Injector
-An Arduino-based keyboard emulator which injects (types) a sequence of letters sent via Bluetooth protocol or from predefined SD card payloads.
+An Arduino-based keyboard emulator which injects (types) a sequence of letters sent via Bluetooth protocol or from predefined SD card payloads.  
+![USB Keystroke Injector](assets/USB-Keystroke-Injector.png)
 
 ## SD card mode
 When it's on SD-card mode, it reads content of the a payload (which is selectable using three switches; means 8 possible payloads) and starts typing them as soon as being recognized as a keyboard to the host.
@@ -42,9 +43,6 @@ If you're not using Arduino Pro Micro, you must follow your device pinout instea
 ## Assemble circuit
 First, you need to assemble the following circuit (the schematic is also available as a fritzing project):  
 ![Schematic](schematic/USB-Keystroke-Injector.png)
-
-This how it will look like at the end:
-![USB Keystroke Injector](assets/USB-Keystroke-Injector.png)
 
 ## Program the software
 Open source codes available in `sources` directory as an [Arduino IDE](https://www.arduino.cc/en/Main/Software) project. Connect your device and simply program it.
