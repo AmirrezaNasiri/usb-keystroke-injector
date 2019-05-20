@@ -51,7 +51,8 @@ Open source codes available in `sources` directory as an [Arduino IDE](https://w
 
 # Configuration
 Main functionality can be configured with the switches (so you don't need to program again and again for simple changes).  
-States of switches are explained below:
+States of switches are explained below:  
+
 | Switch #   	| Name                	| On                                                                 	| Off                                                             	|
 |------------	|---------------------	|--------------------------------------------------------------------	|-----------------------------------------------------------------	|
 | #0 (Left)  	| Keyboard Emulation  	| Device will operate it's normal operation                          	| Device won't act as a keyboard **Required when re-programming** 	|
