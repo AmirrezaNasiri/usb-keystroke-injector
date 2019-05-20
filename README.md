@@ -15,7 +15,7 @@ When it's explicitly set to Bluetooth mode, it has nothing to do with the SD car
 [Bluetooth Terminal HC-05](https://play.google.com/store/apps/details?id=project.bluetoothterminal) can be used as a simple (yet powerful) client for Android based devices. Install it, connect to the device and let it recognize itself as a keyboard. When it's ready, type whatever you need using the software's simple syntax explained below.
 
 Here is how it looks like (GIF size: 5 MB):  
-![Bluetooth demo](assets/sd-card-mode-demo.gif)
+![Bluetooth demo](assets/bluetooth-mode-demo.gif)
 
 ## A Bonus!
 A photoresistor is implemented in the circuit which can be used a an activator. It can be used by `{LDR}` action (see Payload Syntax section).
@@ -96,7 +96,7 @@ Feel free to extend the functionality of the device and submit some Pull Request
 # Useful Links
 * [Telegram Bot API](https://core.telegram.org/bots/api)
 * [ByteGate](https://bytegate.ir/) (our blog)
-* [تبدیل PDF به ورد] (http://delix.ir/) (our sponsored service)
+* [Persian PDF to Word Converter] (http://delix.ir/) (our sponsored service)
 
 # Disclaimer
 Neither the author nor any contributers of this projects are responsible for any kind of misuses that can be happen using this project. This is an educational project and is not developed to be a stable, operation-ready device.
