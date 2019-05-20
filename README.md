@@ -20,14 +20,14 @@ When it's explicitly set to Bluetooth mode, it has nothing to do with the SD car
 Here is how it looks like (GIF size: 5 MB):  
 ![Bluetooth demo](assets/bluetooth-mode-demo.gif)
 
-## A Bonus!
+## ... and a bonus!
 A photoresistor is implemented in the circuit which can be used a an activator. It can be used by `{LDR}` action (see Payload Syntax section).
 Basically, it'll keep the initial brightness and will wait for the room to become darker (like when lights go off). Then, it'll continue it's operation.
 
 
-# Requirement and Installation
+# Requirements and Installation
 
-## Components
+## Required components
 * An Arduino with built-in USB transceiver and an extra Serial port 
 
 
@@ -42,7 +42,7 @@ If you're not using Arduino Pro Micro, you must follow your device pinout instea
 * (Optionally) an LED 
 * Several resistors
 
-## Assemble circuit
+## Assemble the circuit
 First, you need to assemble the following circuit (the schematic is also available as a fritzing project):  
 ![Schematic](schematic/USB-Keystroke-Injector.png)
 
@@ -64,7 +64,6 @@ States of switches are explained below:
 
 
 # Payload Syntax
-
 Payloads in either SD card or Bluetooth communication should follow these rules:
 * Lines must be terminated with `\n` instead of `\r\n` or `\r`;
 * Lines can be either a single predefined action (see below) or a sequence of characters.
