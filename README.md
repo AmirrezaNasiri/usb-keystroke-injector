@@ -55,7 +55,7 @@ States of switches are explained below:
 
 | Switch #   	| Name                	| On                                                                 	| Off                                                             	|
 |------------	|---------------------	|--------------------------------------------------------------------	|-----------------------------------------------------------------	|
-| #0 (Left)  	| Keyboard Emulation  	| Device will operate it's normal operation                          	| Device won't act as a keyboard **Required when re-programming** 	|
+| #0 (Left)  	| Keyboard Emulation  	| Device will operate it's normal operation                          	| Device won't act as a keyboard<br>**Required when re-programming** 	|
 | #1         	| Debug               	| It'll wait for Bluetooth connection and will report more verbosely 	| It'll act normally                                              	|
 | #2         	| Mode                	| The operation will be on SD card mode                              	| The operation will be on Bluetooth mode                         	|
 | #3         	| Payload selector #0 	| Payload number +4 (priority)                                       	| Keeps the payload number as is                                  	|
@@ -107,3 +107,6 @@ There are pretty good uses for this project including:
 * Use photoresistor to put the computer in sleep mode whenever the lights are turned off;
 * Use it for pentest purpose;
 * And plenty of other uses ...
+
+# License
+This project is licensed under [Apache License 2.0](LICENSE).
