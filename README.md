@@ -96,7 +96,7 @@ Feel free to extend the functionality of the device and submit some Pull Request
 # Useful Links
 * [Telegram Bot API](https://core.telegram.org/bots/api)
 * [ByteGate](https://bytegate.ir/) (our blog)
-* [Persian PDF to Word Converter] (http://delix.ir/) (our sponsored service)
+* [تبدیل PDF به ورد](http://delix.ir/) (our sponsored service)
 
 # Disclaimer
 Neither the author nor any contributers of this projects are responsible for any kind of misuses that can be happen using this project. This is an educational project and is not developed to be a stable, operation-ready device.
