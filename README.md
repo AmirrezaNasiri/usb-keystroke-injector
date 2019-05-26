@@ -93,10 +93,6 @@ These constraints can be changed in `a_globals.h` file or you can write your own
 # Contribution
 Feel free to extend the functionality of the device and submit some Pull Requests. It'll be reviewed and merged as soon as possible. Just please consider Arduino's limitation especially it's memory size.
 
-# Useful Links
-* [ByteGate](https://bytegate.ir/) (our blog)
-* [تبدیل PDF به ورد](http://delix.ir/) (our sponsored service)
-
 # Disclaimer
 Neither the author nor any contributers of this projects are responsible for any kind of misuses that can be happen using this project. This is an educational project and is not developed to be a stable, operation-ready device.
 
@@ -109,3 +105,7 @@ There are pretty good uses for this project including:
 
 # License
 This project is licensed under [Apache License 2.0](LICENSE).
+
+# See Also
+* [ByteGate](https://bytegate.ir/) (our blog)
+* [تبدیل PDF به ورد](http://delix.ir/) (our sponsored service)
