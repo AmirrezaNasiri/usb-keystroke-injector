@@ -94,7 +94,6 @@ These constraints can be changed in `a_globals.h` file or you can write your own
 Feel free to extend the functionality of the device and submit some Pull Requests. It'll be reviewed and merged as soon as possible. Just please consider Arduino's limitation especially it's memory size.
 
 # Useful Links
-* [Telegram Bot API](https://core.telegram.org/bots/api)
 * [ByteGate](https://bytegate.ir/) (our blog)
 * [تبدیل PDF به ورد](http://delix.ir/) (our sponsored service)
 
