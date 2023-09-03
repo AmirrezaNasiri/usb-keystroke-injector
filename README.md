@@ -1,3 +1,6 @@
+> **Warning**
+> This repository is archived for read-only purpose and is not maintained anymore. If you're a Arduino developer and interested in maintaining this repository, [create a new discussion](https://github.com/AmirrezaNasiri/usb-keystroke-injector/discussions/new?category=general) and let us know, please.
+
 # USB Keystroke Injector
 An Arduino-based keyboard emulator which injects (i.e. types) a sequence of letters received via Bluetooth protocol or read from predefined SD card payloads.
 <p align="center">
